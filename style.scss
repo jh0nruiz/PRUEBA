@@ -1,0 +1,15 @@
+
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap");
+* {
+    margin: 0;
+    padding: 0;
+  }  
+@import 'nav';
+@import 'header';
+@import 'main';
+@import 'invitados';
+@import 'temas';
+@import 'phone';
+@import 'novedades';
+@import 'footer';
